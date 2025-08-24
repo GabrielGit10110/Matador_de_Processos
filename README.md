@@ -1,4 +1,4 @@
-# 🧛 Matador_de_Processos
+# 🧛 Matador de Processos
 Algoritmo responsável pela finalização de processos. Execução independente do SO.
 
 ## 🤔 O que faz?
